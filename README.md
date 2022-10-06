@@ -10,7 +10,7 @@ https://singhasha1.github.io/text-utility/
 
 ![image](https://user-images.githubusercontent.com/112199624/194289110-dddc3492-0792-4148-908a-102db235f183.png)
 
-#Installation
+# Installation
 
 ## Available Scripts
 
