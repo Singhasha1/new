@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Text Utility Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a responsive text utility tool that is coded into React Js language.
+
+For Accessing this website click on the below given link :
+
+https://singhasha1.github.io/text-utility/
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/112199624/194289110-dddc3492-0792-4148-908a-102db235f183.png)
+
+#Installation
 
 ## Available Scripts
 
